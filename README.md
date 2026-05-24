@@ -13,7 +13,7 @@ IPv4 CIDR arithmetic for Python 3.10+. Zero dependencies. **No `ipaddress` impor
 ## Install
 
 ```bash
-pip install cidrcalc
+python -m pip install -e .
 ```
 
 Or from a clone:
